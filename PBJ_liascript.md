@@ -116,12 +116,14 @@ What do you need to create traditional a peanut butter and jelly sandwich? Check
 [[ ]] Lettuce
 [[X]] Jelly
 [[?]] You can choose more than one correct answer!
+
 ***
 <div class = "answer">
 
 A traditional PB&J needs peanut butter, jelly, and bread! Lettuce isn't a traditional component.
 
 </div>
+
 ***
 
 Which of these is NOT an acceptable type of bread for a peanut butter and jelly sandwich?
@@ -130,12 +132,14 @@ Which of these is NOT an acceptable type of bread for a peanut butter and jelly 
 [(X)] Sliced tomato
 [( )] Crackers
 [( )] Naan
+
 ***
 <div class = "answer">
 
 There is nothing wrong with combining peanut butter, jelly, and sliced tomatoes, they just won't stay together as a sandwich!
 
 </div>
+
 ***
 
 Describe how you feel about peanut butter and jelly sandwiches.
